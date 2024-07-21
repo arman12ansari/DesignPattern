@@ -1,4 +1,6 @@
-public class Student implements Prototype<Student>{
+package PrototypeAndRegistry;
+
+public class Student implements Prototype<Student> {
 
     private String name;
     private String email;

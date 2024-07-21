@@ -1,3 +1,5 @@
+package PrototypeAndRegistry;
+
 import java.util.HashMap;
 
 public class Registry {
